@@ -1,11 +1,3 @@
-# 4.0.0
-
-- Changing version constraints
-
-# 3.0.4
-
-- Updating dependencies
-
 # 3.0.3
 
 - Adding option to not show the overlay
